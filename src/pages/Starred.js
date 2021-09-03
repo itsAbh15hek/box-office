@@ -1,5 +1,7 @@
+import MainPageLayout from '../components/MainPageLayout';
+
 const Starred = () => {
-  return <div>Starssss</div>;
+  return <MainPageLayout>Starssss</MainPageLayout>;
 };
 
 export default Starred;
