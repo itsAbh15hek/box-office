@@ -28,7 +28,17 @@ const Home = () => {
     if (ev.keyCode === 13) onSearch();
   };
   const showResults = () => {
-    if (results && results.length === 0) return <div>No Results</div>;
+    if (results && results.length === 0)
+      return (
+        <div
+          style={{
+            display: 'flex',
+            justifyContent: 'center',
+          }}
+        >
+          <div>No Results</div>
+        </div>
+      );
     if (results && results.length > 0)
       return results[0].show ? (
         <ShowGrid data={results} />

@@ -13,7 +13,17 @@ const Show = () => {
 
   const { show, isLoading, error } = useShow(id);
 
-  if (isLoading) return <div>Loading Content...</div>;
+  if (isLoading)
+    return (
+      <div
+        style={{
+          display: 'flex',
+          justifyContent: 'center',
+        }}
+      >
+        <div>Loading Content...</div>
+      </div>
+    );
 
   if (error !== null) return <div>{`Error Occoured: ${error}`}</div>;
 
