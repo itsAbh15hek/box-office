@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/box-office/static/css/main.5fffadb5.chunk.css",
-    "main.js": "/box-office/static/js/main.86c728b7.chunk.js",
-    "main.js.map": "/box-office/static/js/main.86c728b7.chunk.js.map",
-    "runtime-main.js": "/box-office/static/js/runtime-main.2a5cad47.js",
-    "runtime-main.js.map": "/box-office/static/js/runtime-main.2a5cad47.js.map",
-    "static/js/2.2f99526f.chunk.js": "/box-office/static/js/2.2f99526f.chunk.js",
-    "static/js/2.2f99526f.chunk.js.map": "/box-office/static/js/2.2f99526f.chunk.js.map",
-    "static/js/3.e4ff27bf.chunk.js": "/box-office/static/js/3.e4ff27bf.chunk.js",
-    "static/js/3.e4ff27bf.chunk.js.map": "/box-office/static/js/3.e4ff27bf.chunk.js.map",
-    "index.html": "/box-office/index.html",
-    "service-worker.js": "/box-office/service-worker.js",
-    "service-worker.js.map": "/box-office/service-worker.js.map",
-    "static/css/main.5fffadb5.chunk.css.map": "/box-office/static/css/main.5fffadb5.chunk.css.map",
-    "static/js/2.2f99526f.chunk.js.LICENSE.txt": "/box-office/static/js/2.2f99526f.chunk.js.LICENSE.txt"
+    "main.css": "/find-a-show/static/css/main.7e77e0f2.chunk.css",
+    "main.js": "/find-a-show/static/js/main.53cc0321.chunk.js",
+    "main.js.map": "/find-a-show/static/js/main.53cc0321.chunk.js.map",
+    "runtime-main.js": "/find-a-show/static/js/runtime-main.04a19ae1.js",
+    "runtime-main.js.map": "/find-a-show/static/js/runtime-main.04a19ae1.js.map",
+    "static/js/2.77a69e53.chunk.js": "/find-a-show/static/js/2.77a69e53.chunk.js",
+    "static/js/2.77a69e53.chunk.js.map": "/find-a-show/static/js/2.77a69e53.chunk.js.map",
+    "static/js/3.082c9635.chunk.js": "/find-a-show/static/js/3.082c9635.chunk.js",
+    "static/js/3.082c9635.chunk.js.map": "/find-a-show/static/js/3.082c9635.chunk.js.map",
+    "index.html": "/find-a-show/index.html",
+    "service-worker.js": "/find-a-show/service-worker.js",
+    "service-worker.js.map": "/find-a-show/service-worker.js.map",
+    "static/css/main.7e77e0f2.chunk.css.map": "/find-a-show/static/css/main.7e77e0f2.chunk.css.map",
+    "static/js/2.77a69e53.chunk.js.LICENSE.txt": "/find-a-show/static/js/2.77a69e53.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2a5cad47.js",
-    "static/js/2.2f99526f.chunk.js",
-    "static/css/main.5fffadb5.chunk.css",
-    "static/js/main.86c728b7.chunk.js"
+    "static/js/runtime-main.04a19ae1.js",
+    "static/js/2.77a69e53.chunk.js",
+    "static/css/main.7e77e0f2.chunk.css",
+    "static/js/main.53cc0321.chunk.js"
   ]
 }
