@@ -7,15 +7,16 @@ export const SearchInput = styled.input`
   margin: auto;
   outline: none;
   padding: 13px 15px;
-  border: 1px solid #dbdbdb;
-  box-shadow: 0px 0px 10px 0px rgba(219, 219, 219, 0.5);
+  border: 1px solid #000c;
+  box-shadow: 0px 0px 5px 0px #000c;
   font-size: 14px;
   border-radius: 12px;
-  color: #8d8d8d;
+  color: #fff;
+  background-color: #333333;
 
   &::placeholder {
     font-weight: 300;
-    color: #8d8d8d;
+    color: #ccc;
   }
 `;
 
@@ -34,7 +35,7 @@ export const SearchButtonWrapper = styled.div`
   margin-bottom: 35px;
 
   button {
-    color: #fff;
+    color: #000;
     background-color: ${({ theme }) => theme.mainColors.blue};
     margin: auto;
     padding: 10px 50px;

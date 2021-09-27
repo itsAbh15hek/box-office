@@ -15,7 +15,7 @@ export const MainDataWrapper = styled.div`
   .text-side {
     margin-left: 20px;
     .summary {
-      color: #5f5f5f;
+      color: #ccc;
       line-height: 1.5;
     }
   }

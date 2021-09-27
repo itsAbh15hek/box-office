@@ -23,13 +23,13 @@ const RadioWrapper = styled.label`
     left: 0;
     height: 16px;
     width: 16px;
-    background-color: #fff;
+    background-color: rgb(44, 44, 44);
     border: 2px solid ${({ theme }) => theme.mainColors.blue};
     border-radius: 50%;
   }
 
   input:checked ~ span {
-    background-color: #fff;
+    background-color: rgb(44, 44, 44);
     border: 2px solid ${({ theme }) => theme.mainColors.blue};
   }
 

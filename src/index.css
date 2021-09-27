@@ -3,4 +3,9 @@ body {
   font-size: 18px;
   margin: 0;
   padding-top: 40px;
+  background-color: rgb(44, 44, 44);
+  color: rgb(185, 185, 185);
+}
+Link {
+  color: red;
 }
